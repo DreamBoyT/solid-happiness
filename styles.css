@@ -573,7 +573,7 @@ hr {
 /* Mobile Devices */
 @media (max-width: 600px) {
     header h1 {
-        font-size: 15px;
+        font-size: 10px;
         position: relative;
         top: 20px;
         left: 50px;
