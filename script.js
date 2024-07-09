@@ -161,9 +161,9 @@ window.addEventListener('load', async () => {
 // MSAL configuration
 const msalConfig = {
     auth: {
-        clientId: "1adcd7d0-4fc4-4ae6-b6be-fd3311752929", // Your client ID
+        clientId: "d24bfde1-e062-49da-8129-5bdcf609b00b", // Your client ID
         authority: "https://login.microsoftonline.com/4d4343c6-067a-4794-91f3-5cb10073e5b4", // Your tenant ID
-        redirectUri: "http://localhost:5501" // Your redirect URI
+        redirectUri: "https://salmon-flower-0b8cdc800.5.azurestaticapps.net" // Your redirect URI
     },
     cache: {
         cacheLocation: "localStorage", // or "sessionStorage"
